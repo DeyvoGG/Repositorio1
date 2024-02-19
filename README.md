@@ -1,6 +1,6 @@
 # Repositorio1
 Practica_1
-# Nombre del Proyecto
+# Como jugar bien al LOL
 
 Descripción corta y concisa del proyecto.
 
